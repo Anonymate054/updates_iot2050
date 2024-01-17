@@ -1,7 +1,0 @@
-En caso de tener problemas como este: "$'\r': command not found"
-
-Ejecutar:
-
-sudo apt-get install dos2unix
-
-dos2unix {file}
